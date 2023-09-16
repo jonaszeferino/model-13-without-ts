@@ -6,7 +6,7 @@
 - chakra UI
 - API on Mongo
 
-## NenxtJS 13.01 
+## NextJS 13.01 
 
 - without typescrit
 - with old routers 
